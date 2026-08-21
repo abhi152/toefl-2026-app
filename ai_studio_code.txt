@@ -1,0 +1,14 @@
+# TOEFL 2026 Writing Practice App (Free AI Version)
+
+This app uses the **Google Gemini API** to provide free AI-powered scoring for the new 2026 TOEFL Writing format.
+
+## Features:
+1. **Task 1: Build a Sentence** - Practice sentence structure.
+2. **Task 2: Email Writing** - 7-minute task (100-120 words).
+3. **Task 3: Academic Discussion** - 10-minute task (100+ words).
+
+## Setup:
+1. Upload these files to GitHub.
+2. Deploy to [Streamlit Cloud](https://share.streamlit.io).
+3. Get a free API Key from [Google AI Studio](https://aistudio.google.com/).
+4. Enter the key in the app sidebar to start practicing.
