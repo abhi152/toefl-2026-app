@@ -1,9 +1,0 @@
-# TOEFL 2026 Writing Practice App
-
-This app simulates the new TOEFL Writing format (Build a Sentence, Email, and Academic Discussion) and uses AI to predict Band Scores (1-6).
-
-## How to use:
-1. Upload these files to a GitHub Repo.
-2. Go to [Streamlit Cloud](https://share.streamlit.io/).
-3. Connect your repo.
-4. Input your OpenAI API Key in the sidebar to get AI feedback.
